@@ -18,3 +18,12 @@ Modeling
 
 a)  Train a Convolutional Neural Network (CNN) on COVIDX dataset.
     Use transfer learning from popular architectures such as ResNet, Inception Net.
+    
+b)  Use CNN visualization techniques to determine how CNNs are making decisions.
+
+c)  Train a CNN on the larger dataset, and use transfer learning to finetune this model to COVID-19 detection.
+
+d)  Text summarization/Report generation for the X ray image.
+
+c)  Localization of problematic areas.
+
