@@ -7,8 +7,14 @@ We propose a Deep Learning model trained on X ray images which will aid the doct
 Dataset 
 
 The main dataset we would like to use for this project is the CovidX dataset, which combines multiple open source Covid datasets.
+
 https://github.com/lindawangg/COVID-Net1
 
 We also plan on using a second, larger dataset: MIMIC-CXR or NIH Chest X-Ray
 
 https://mimic-cxr.mit.edu/about/data/
+
+Modeling 
+
+a)  Train a Convolutional Neural Network (CNN) on COVIDX dataset.
+    Use transfer learning from popular architectures such as ResNet, Inception Net.
