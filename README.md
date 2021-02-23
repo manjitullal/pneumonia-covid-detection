@@ -10,4 +10,5 @@ The main dataset we would like to use for this project is the CovidX dataset, wh
 https://github.com/lindawangg/COVID-Net1
 
 We also plan on using a second, larger dataset: MIMIC-CXR or NIH Chest X-Ray
+
 https://mimic-cxr.mit.edu/about/data/
